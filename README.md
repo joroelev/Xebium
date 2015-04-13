@@ -1,4 +1,4 @@
-Xebium [![Build Status](https://travis-ci.org/xebia/Xebium.png?branch=master)](https://travis-ci.org/xebia/Xebium)
+Xebium [![Build Status](https://travis-ci.org/joroelev/Xebium.png?branch=master)](https://travis-ci.org/joroelev/Xebium)
 ======
 [Xebium](http://xebia.github.com/Xebium/) combines the powers of FitNesse and Selenium. Visit the [xebium home page](http://xebia.github.com/Xebium/) for more details and examples.
 
