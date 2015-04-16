@@ -12,6 +12,8 @@ deploy:
   secret_access_key:
     secure: PzI/3TGhK1kw5DUkZdpxs8Xm+lqFFtlx9HpfBUX+IJ5aXvS8ii3kSNTO70tF5h6ZQHIAdFQFjxzB8VVxxp0eDQyXhueUPVlQH/QKcdTI8w+R+eTWTRayMKtbS/sO7LHCVHafZbr6CLnplXYW1MWLiy1pJa9jASx2kfVc+cGPcrM=
   bucket: travis-xebium-artifacts
+  local_dir: target
+  skip_cleanup: true
   acl: public_read
   on:
     repo: joroelev/Xebium
