@@ -2,7 +2,7 @@ language: java
 jdk:
 - oraclejdk8
 install: mvn dependency:resolve --quiet
-script: mvn Pjar-with-dependencies package
+script: mvn -Pjar-with-dependencies package
 notifications:
   email:
   - jhroeleveld@hotmail.com
