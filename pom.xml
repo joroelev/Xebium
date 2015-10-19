@@ -29,12 +29,12 @@
   </licenses>
 
   <properties>
-    <selenium.version>2.47.1</selenium.version>
-    <fitnesse.version>20130530</fitnesse.version>
+    <selenium.version>2.47.2</selenium.version>
+    <fitnesse.version>20150814</fitnesse.version>
     <fitnesse.port>8000</fitnesse.port>
     <fitnesse.expiration>0</fitnesse.expiration>
     <orgjson.version>20140107</orgjson.version>
-    <maven-classpath-plugin.version>1.7</maven-classpath-plugin.version>
+    <maven-classpath-plugin.version>1.9</maven-classpath-plugin.version>
     <slf4j.version>1.6.4</slf4j.version>
     <operadriver.version>1.1</operadriver.version>
     <phantomjsdriver.version>1.2.1</phantomjsdriver.version>
